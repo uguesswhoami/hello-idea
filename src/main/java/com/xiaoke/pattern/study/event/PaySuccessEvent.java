@@ -1,4 +1,4 @@
-package com.designpattern.study.event;
+package com.xiaoke.pattern.study.event;
 
 /**
  * Created by luotong on 17/3/12.

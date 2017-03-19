@@ -1,7 +1,7 @@
-package com.designpattern.study.event;
+package com.xiaoke.pattern.study.event;
 
 /**
- * Created by luotong on 17/3/12.
+ * Created by  on 17/3/12.
  */
 public abstract class Event implements Message{
 

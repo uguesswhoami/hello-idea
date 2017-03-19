@@ -1,4 +1,4 @@
-package com.designpattern.study.template;
+package com.xiaoke.pattern.study.template;
 
 public class TemplateImpl extends Template {
 

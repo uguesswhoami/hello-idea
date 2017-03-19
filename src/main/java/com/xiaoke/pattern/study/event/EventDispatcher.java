@@ -1,4 +1,4 @@
-package com.designpattern.study.event;
+package com.xiaoke.pattern.study.event;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,5 +1,5 @@
-import com.designpattern.study.template.Template;
-import com.designpattern.study.template.TemplateImpl;
+import com.xiaoke.pattern.study.template.Template;
+import com.xiaoke.pattern.study.template.TemplateImpl;
 import org.junit.Test;
 
 public class TestTemplate{
